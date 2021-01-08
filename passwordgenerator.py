@@ -47,7 +47,7 @@ while count < length:
 word = "".join([chr(c) for c in password])
 
 #copy pass to clipboard
-pyperclip.copy(word)
+#faut le corriger ça zbi 
 
 #print the result
 print("Votre mot de passe random %s est: \n" % length)
